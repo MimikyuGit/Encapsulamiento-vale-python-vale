@@ -23,3 +23,8 @@ resultado = Matematicas.sumar(3,5) #<- Fijate que no tuvimos que crear un objeto
 
 print(f"El resultado de la suma es: {resultado}")    #<-- resultado: 8
 
+
+
+
+
+
