@@ -20,3 +20,6 @@ Mas que nada es una mini repo para tener cada ejemplo y cosas que se han pasado 
 - Super()
 - @property + @property.get / .setter
 - Clases Abstractas
+
+
+No se ha usado IA para escribir codigos o informacion, solo para RESEARCH PURPOSES y Resolucion de errores
